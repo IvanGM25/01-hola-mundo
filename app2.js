@@ -2,4 +2,4 @@ const saludar = (nombre) => {
     return `Hola ${nombre}`;
 }
 
-console.log(saludar("Ivan"));
+console.log(saludar("Ivan Gabriel"));
